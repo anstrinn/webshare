@@ -2,7 +2,7 @@
 
 This is a very alpha application that allows you to download and upload files using a non-secure http connection.
 
-Currently the webpage design follows the [anstrinn/elegantvagrant](https://github.com/anstrinn/elegantvagrant) theme colors.
+Currently the webpage design follows the [aocoronel/elegantvagrant](https://github.com/aocoronel/elegantvagrant) theme colors.
 
 ## Requirements
 
